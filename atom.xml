@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://mgreports.github.io/"/>
   <updated>2019-06-21T16:39:26.307Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://mgreports.github.io/</id>
   
   <author>
     <name>MG</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试：细分市场和产品属性</title>
-    <link href="http://yoursite.com/2019/06/15/1/"/>
-    <id>http://yoursite.com/2019/06/15/1/</id>
+    <link href="https://mgreports.github.io/2019/06/15/1/"/>
+    <id>https://mgreports.github.io/2019/06/15/1/</id>
     <published>2019-06-15T13:32:27.000Z</published>
     <updated>2019-06-21T16:39:26.307Z</updated>
     
