@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Data Insight</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://mgreports.github.io/"/>
+  <updated>2019-06-15T13:46:34.156Z</updated>
+  <id>https://mgreports.github.io/</id>
+  
+  <author>
+    <name>MG</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试：一次求解 产品属性 细分市场</title>
+    <link href="http://yoursite.com/2019/06/15/1/"/>
+    <id>http://yoursite.com/2019/06/15/1/</id>
+    <published>2019-06-15T13:32:27.000Z</published>
+    <updated>2019-06-15T13:46:34.156Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
